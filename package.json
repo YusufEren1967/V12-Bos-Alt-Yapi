@@ -1,0 +1,15 @@
+{
+  "name": "v12-bos-alt-yapi",
+  "version": "1",
+  "description": "Lebronze James ✬#9461 Tarafından Yapılmıştır Kesinlikle Başkası Tarafından Paylaşılamaz",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "v12-bos-alt-yapi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security"
+  }
+}
